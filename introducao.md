@@ -40,5 +40,5 @@ Recomendo se acostumar com o [Codeforces](https://codeforces.com/) desde o iníc
 
 Sei lá, cê quem sabe, porém desencorajo para quem está começando.
 
-**_"Escrever `push_back` cria caráter_***
+**_"Escrever `push_back` cria caráter"_**
 
