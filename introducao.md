@@ -2,9 +2,15 @@
 
 nao sei o que falar
 
-## Por que eu deveria entrar?
+## Por que eu deveria começar?
 
 tenho uns motivos mt bons
+
+## Por onde começar?
+
+Bom, a maior parte dessa jornada consiste em resolver problemas, e para isso existem os **juízes online**, que resumidamente são sites com problemas e você pode enviar uma solução em alguma linguagem de programação, e então ele julga de acordo com uma série de casos de teste escondidos e te dá um veredito. Os sites que recomendamos são [Codeforces](https://codeforces.com/), [AtCoder](https://atcoder.jp/) e [Neps Academy](https://neps.academy/). ~~Você pode ver mais sobre na seção de juízes online.~~
+
+Porém também é importante ter um fluxo, algo para te guiar. Recomendamos o livro [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf), que vai do zero, explicando noções da linguagem C++, até um nível bem considerável de dificuldade. Além de gratuito, ele conta com um [_problemset_](https://cses.fi/problemset/) com diversos problemas clássicos divididos por tópicos, sendo que alguns estão explicados no próprio livro.
 
 ## Dúvidas frequentes
 
@@ -34,7 +40,7 @@ int main() {
 
 ### Qual o melhor juíz online pra começar?
 
-Recomendo se acostumar com o [Codeforces](https://codeforces.com/) desde o início, porém ele é bem hostil e pode ser um pouco desanimador. Em contrapartida o [Atcoder](https://atcoder.jp/) é bem mais amigável, então o ideal seria utilizar os dois. ~~Existem também outros juízes famosos na seção de juízes online.~~
+Recomendo se acostumar com o [Codeforces](https://codeforces.com/) desde o início, porém ele é bem hostil e pode ser um pouco desanimador. Em contrapartida o [AtCoder](https://atcoder.jp/) é bem mais amigável, então o ideal seria utilizar os dois. ~~Existem também outros juízes famosos na seção de juízes online.~~
 
 ### Eu deveria usar um template?
 
