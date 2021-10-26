@@ -1,10 +1,19 @@
 # Introdução
 
-nao sei o que falar
+Mais do que programar no dia a dia, aqui a ideia é usar a programação e os recursos computacionais para resolver problemas de diferentes tipos. Além da diversão em resolver problemas, temos a satisfação em resolver os difíceis!
 
 ## Por que eu deveria começar?
 
-tenho uns motivos mt bons
+Durante a jornada nesse mundo encontramos benefícios como
+
+<ul>
+  <li>Aprimoramento da lógica de programação: Ao resolver problemas conseguimos desenvolver muito a
+  lógica de programação</li>
+  <li>Algoritmos e Estrutura de Dados: Na jornada passamos a entender como funcionam algoritmos e estrutura de dados de diversos tipos. Usamos esse <em>poder</em> para resolver problemas mais sofisticados e os problemas clássicos. </li>
+  <li>Avanço na graduação: Diversas coisas vistas nesse mundo podem ser estudadas em um semestre mais
+  avançado de um curso de graduação. Um bom exemplo disso são os grafos, a notação assintótica e os diferentes tipos de algoritmos para se resolver problemas: gulosos, força bruta, programação dinâmica e etc.</li>
+  <li>Processos seletivos: Diversas empresas utilizam problemas semelhantes aos vistos em contests. Um exemplo disso é o site Leetcode e o Lintcode que agrupam essas questões por empresas.</li>
+</ul>
 
 ## Por onde começar?
 
